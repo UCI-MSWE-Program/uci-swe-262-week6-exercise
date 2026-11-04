@@ -1,0 +1,1 @@
+rootProject.name = "uci-swe-262-week6-exercise"
